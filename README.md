@@ -10,9 +10,9 @@ Input:        ||   Output:
 
 Diagrams:
 
-[Rails MVC diagram](full-time/weekend-challenges/week8-9/instagram-challenge/images/request-response-cycle-dynamic.png)
+[Rails MVC diagram](https://github.com/JoshuaNg2332/instagram-challenge/blob/master/images/request-response-cycle-dynamic.png)
 
-[Minstagram diagram](full-time/weekend-challenges/week8-9/instagram-challenge/images/Mintstagram.png)
+[Minstagram diagram](https://github.com/JoshuaNg2332/instagram-challenge/blob/master/images/Mintstagram.png)
 
 Requirements:
 ```
