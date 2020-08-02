@@ -1,6 +1,30 @@
 Instagram Challenge
 ===================
 
+## Planning
+
+Input:        ||   Output:
+
+/               Homepage/signup/signin
+/timeline       Timeline
+
+Diagrams:
+
+[Rails MVC diagram](full-time/weekend-challenges/week8-9/instagram-challenge/images/request-response-cycle-dynamic.png)
+
+[Minstagram diagram](full-time/weekend-challenges/week8-9/instagram-challenge/images/Mintstagram.png)
+
+Requirements:
+```
+Pages 
+root - Signup/Signin
+timeline
+post - post new photos
+```
+
+
+
+
 ## Instructions
 
 * Feel free to use Google, your notes, books, etc., but work on your own
